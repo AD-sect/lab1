@@ -1,0 +1,23 @@
+﻿  main.c
+C:\Users\DAA\source\repos\blin\blin\main.c(60,34): warning C4020: scalMultipyMat: слишком много фактических параметров
+C:\Users\DAA\source\repos\blin\blin\main.c(84,41): warning C4020: addLinearCombMat: слишком много фактических параметров
+  options.c
+C:\Users\DAA\source\repos\blin\blin\options.c(27,17): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(27,33): warning C4047: =: "void *" отличается по уровням косвенного обращения от "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(29,8): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(36,11): warning C4013: scanf_s: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(77,24): warning C4013: calloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(77,44): warning C4047: =: "void **" отличается по уровням косвенного обращения от "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(81,49): warning C4047: =: "void *" отличается по уровням косвенного обращения от "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(152,7): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(220,1): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\DAA\source\repos\blin\blin\options.c(238,72): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\DAA\source\repos\blin\blin\options.c(300,1): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\DAA\source\repos\blin\blin\options.c(352,7): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  test.c
+C:\Users\DAA\source\repos\blin\blin\test.c(107,44): warning C4020: scalMultipyMat: слишком много фактических параметров
+C:\Users\DAA\source\repos\blin\blin\test.c(109,51): warning C4020: addLinearCombMat: слишком много фактических параметров
+C:\Users\DAA\source\repos\blin\blin\test.c(254,48): warning C4020: scalMultipyMat: слишком много фактических параметров
+C:\Users\DAA\source\repos\blin\blin\test.c(256,55): warning C4020: addLinearCombMat: слишком много фактических параметров
+  Создание кода...
+  blin.vcxproj -> C:\Users\DAA\source\repos\blin\x64\Debug\blin.exe

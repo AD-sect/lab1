@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (blin.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.c
+  options.c
+C:\Users\DAA\source\repos\blin\blin\options.c(27,17): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(27,33): warning C4047: =: "void *" отличается по уровням косвенного обращения от "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(29,8): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(36,11): warning C4013: scanf_s: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(77,24): warning C4013: calloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(77,44): warning C4047: =: "void **" отличается по уровням косвенного обращения от "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(81,49): warning C4047: =: "void *" отличается по уровням косвенного обращения от "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(152,7): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\DAA\source\repos\blin\blin\options.c(352,7): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  test.c
+  Создание кода...
+  blin.vcxproj -> C:\Users\DAA\source\repos\blin\Debug\lab1.exe
